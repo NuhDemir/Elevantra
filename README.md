@@ -2,7 +2,6 @@
 
 ![Elevantra Logo ](https://github.com/NuhDemir/Elevantra/blob/main/img/elevantra%20logo.png?raw=true)
 
-https://github.com/NuhDemir/Elevantra/blob/main/img/elevantra%20logo.png?raw=true
 Elevantra, iş arayanlar ile işverenleri modern bir kullanıcı deneyimiyle buluşturan tam donanımlı bir iş ilanı platformudur. Bu proje, yazılım geliştiricileri için katmanlı mimari ile geliştirilmiş bir **Node.js backend** ve **React frontend** içermektedir.
 
 ---
